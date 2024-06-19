@@ -1,12 +1,10 @@
-# The first 5 lines should be comments and display author name (you), name of the script (lab1a.py) and the description of the code.
+# Add comments before you do anything else.
 
 #!/usr/bin/env python3
 # Author:
 # Date:
 # Purpose: print simple messages and check the type of a variable.
 # Usage: ./lab6a.py
-#
-
 
 # Next, create a variable called message
 
